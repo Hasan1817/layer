@@ -3,7 +3,7 @@
 namespace Modules\Attendance\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Illuminate\Database\Eloquent\Factory;
+use Illuminate\Database\Eloquent\Factory; 
 use Modules\Attendance\Repositories\AttendanceRepository;
 use Modules\Attendance\Repositories\AttendanceRepositoryInterface;
 use Modules\Attendance\Repositories\EventRepository;
