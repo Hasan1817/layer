@@ -16,7 +16,7 @@ use Illuminate\Validation\Rule;
 use Modules\Leave\Repositories\LeaveRepository;
 use Modules\Payroll\Repositories\PayrollRepositoryInterface;
 use Modules\RolePermission\Entities\Role;
-
+ 
 class StaffController extends Controller
 {
     use Notification, CustomFields;
