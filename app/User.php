@@ -8,7 +8,7 @@ use App\Traits\Tenantable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Modules\Attendance\Entities\Attendance;
-use Modules\Leave\Entities\ApplyLeave;
+use Modules\Leave\Entities\ApplyLeave; 
 use Modules\Leave\Entities\LeaveDefine;
 use Modules\RolePermission\Entities\Role;
 
