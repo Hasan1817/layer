@@ -8,7 +8,7 @@ use App\Models\CaseComment;
 use App\Models\Cases;
 use App\Models\CaseStaff;
 use App\Models\Client;
-use App\User;
+use App\User; 
 use Illuminate\Support\Str;
 use Illuminate\Http\Request;
 use App\Models\CaseCommentFile;
