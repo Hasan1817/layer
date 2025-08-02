@@ -10,7 +10,7 @@ class Staff extends Model
 {
     use HasCustomFields, Tenantable;
 
-    protected static function boot()
+    protected static function boot() 
     {
         parent::boot();
 
