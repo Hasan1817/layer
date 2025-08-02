@@ -9,7 +9,7 @@ use Brian2694\Toastr\Facades\Toastr;
 use Illuminate\Routing\Controller as BaseController;
 
 class Controller extends BaseController
-{
+{ 
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
 
