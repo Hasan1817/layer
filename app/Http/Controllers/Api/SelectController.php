@@ -7,7 +7,7 @@ use App\Models\Court;
 use App\Models\State;
 use App\Models\City;
 use Illuminate\Http\Request;
-
+ 
 class SelectController extends Controller {
 	
 	public function state(Request $request) {
