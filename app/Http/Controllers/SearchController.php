@@ -11,7 +11,7 @@ class SearchController extends Controller
 {
     
   function search(Request $r){
-
+ 
         try{
           if($r->ajax())
           {
