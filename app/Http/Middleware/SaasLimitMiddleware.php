@@ -9,7 +9,7 @@ use Illuminate\Validation\ValidationException;
 
 class SaasLimitMiddleware
 {
-    /**
+    /** 
      * Handle an incoming request.
      *
      * @param  \Illuminate\Http\Request  $request
