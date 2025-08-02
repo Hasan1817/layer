@@ -9,7 +9,7 @@ use App\Traits\Dashboard;
 use App\Models\Appointment;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\App;
+use Illuminate\Support\Facades\App; 
 use Modules\Appointment\Entities\Booking;
 use Modules\Appointment\Entities\Schedule;
 use Modules\Appointment\Repositories\Interfaces\BookingRepositoryInterface;
