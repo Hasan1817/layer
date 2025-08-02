@@ -7,5 +7,5 @@ if (moduleStatusCheck('AdvSaas') ) {
         require('tenant.php');
     });
 } else {
-    require('tenant.php');
+    require('tenant.php'); 
 }
