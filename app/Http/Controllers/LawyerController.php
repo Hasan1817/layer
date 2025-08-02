@@ -10,7 +10,7 @@ use Illuminate\Validation\ValidationException;
 class LawyerController extends Controller {
 use CustomFields;
 
-    public function __construct()
+    public function __construct() 
     {
         $this->middleware('limit:opposite_lawyer')->only(['create', 'store']);
     }
