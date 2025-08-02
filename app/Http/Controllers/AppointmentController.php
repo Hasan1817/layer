@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use App\Models\Appointment;
 use App\Models\Contact;
 use App\Jobs\AppointmentMailJob;
-use Illuminate\Validation\ValidationException;
+use Illuminate\Validation\ValidationException; 
 
 class AppointmentController extends Controller
 {
