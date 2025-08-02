@@ -8,7 +8,7 @@ use App\Models\CourtCategory;
 use App\Models\State;
 use App\Models\City;
 use App\Models\Country;
-use App\Traits\CustomFields;
+use App\Traits\CustomFields; 
 use Illuminate\Http\Request;
 use Illuminate\Validation\ValidationException;
 
