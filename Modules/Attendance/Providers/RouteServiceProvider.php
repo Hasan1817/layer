@@ -5,7 +5,7 @@ namespace Modules\Attendance\Providers;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
 
-class RouteServiceProvider extends ServiceProvider
+class RouteServiceProvider extends ServiceProvider 
 {
     /**
      * The module namespace to assume when generating URLs to actions.
