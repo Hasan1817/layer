@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\DB;
 class CreateColorsTable extends Migration
 {
     /**
-     * Run the migrations.
+     * Run the migrations. 
      *
      * @return void
      */
