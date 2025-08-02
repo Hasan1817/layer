@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Session;
 
 
-class SubdomainMiddleware
+class SubdomainMiddleware 
 {
     public function handle($request, Closure $next)
     {
